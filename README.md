@@ -11,7 +11,7 @@
 > Output:
     `output: [1,'a','cat',2,3,'dog',4,5]`
 
----
+
 
 2. Verilen listenin içindeki elemanları **tersine döndüren** bir fonksiyon yazın. Eğer listenin içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün. Örnek olarak:
 
